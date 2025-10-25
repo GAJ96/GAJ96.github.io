@@ -1,1 +1,1 @@
-# GAJ96.github.ioi
+# GAJ96.github.io
